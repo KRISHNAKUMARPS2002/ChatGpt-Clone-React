@@ -15,13 +15,6 @@ Welcome to the Chat GPT Clone project! This project aims to replicate the functi
 
 ![Preview Image](Chat%20GPT%20-%20Google%20Chrome%2016-02-2024%2017_44_25.png)
 
-## Additional Features:
-
-- **User Authentication:** Implement user authentication to personalize user experiences and access control.
-- **Data Persistence:** Store chat history and user preferences for a seamless user experience across sessions.
-- **Integration with APIs:** Integrate with external APIs to fetch data or perform actions based on user inputs.
-- **Multi-language Support:** Support multiple languages to cater to a diverse user base.
-
 ## Getting Started:
 
 To get started with the project:
